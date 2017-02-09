@@ -1,15 +1,17 @@
-+-----------------------------+------------------------------------------+
-| HTML                        | HTML 5                                   |
-+-----------------------------+------------------------------------------+
-| Audio və video HTML kodunun | Audio və video daxili koddur.            |
-| daxilinə aid deyil          | <audio> və <video> tagları ilə           |
-|                             | yazılır                                  |
-+-----------------------------+------------------------------------------+
-| Websocketləri* dəstəkləmir  | Websocketləri dəstəkləyir və tam dupleks |
-|                             | kommunikasiya təmin edir.                |
-+-----------------------------+------------------------------------------+
-| Javascript yoxdur           | Javascript var                           |
-+-----------------------------+------------------------------------------+
-|                             | Bir sıra yeni taglar və istifadədən      |
-|                             | çıxarılmış taglar                        |
-+-----------------------------+------------------------------------------+
++------------------------------------+------------------------------------------+
+| HTML                               | HTML 5                                   |
++------------------------------------+------------------------------------------+
+| <!DOCTYPE> yazılmaqla təyin edilir | <!DOCTYPE html> yazılaraq təyin edilir   |
++------------------------------------+------------------------------------------+
+| Audio və video HTML kodunun        | Audio və video daxili koddur.            |
+| daxilinə aid deyil                 | <audio> və <video> tagları ilə           |
+|                                    | yazılır                                  |
++------------------------------------+------------------------------------------+
+| Websocketləri* dəstəkləmir         | Websocketləri dəstəkləyir və tam dupleks |
+|                                    | kommunikasiya təmin edir.                |
++------------------------------------+------------------------------------------+
+| Javascript yoxdur                  | Javascript var                           |
++------------------------------------+------------------------------------------+
+|                                    | Bir sıra yeni taglar və istifadədən      |
+|                                    | çıxarılmış taglar                        |
++------------------------------------+------------------------------------------+
