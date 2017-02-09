@@ -1,1 +1,15 @@
-
++-----------------------------+------------------------------------------+
+| HTML                        | HTML 5                                   |
++-----------------------------+------------------------------------------+
+| Audio və video HTML kodunun | Audio və video daxili koddur.            |
+| daxilinə aid deyil          | <audio> və <video> tagları ilə           |
+|                             | yazılır                                  |
++-----------------------------+------------------------------------------+
+| Websocketləri* dəstəkləmir  | Websocketləri dəstəkləyir və tam dupleks |
+|                             | kommunikasiya təmin edir.                |
++-----------------------------+------------------------------------------+
+| Javascript yoxdur           | Javascript var                           |
++-----------------------------+------------------------------------------+
+|                             | Bir sıra yeni taglar və istifadədən      |
+|                             | çıxarılmış taglar                        |
++-----------------------------+------------------------------------------+
